@@ -155,15 +155,15 @@ type(name)
 type(len)
 
 len(name)
-len("vahitkeskin")
-len("miuul")
+len("unal")
+len("unaltozlu")
 
 #######################
 # upper() & lower(): küçük-büyük dönüşümleri
 #######################
 
-"miuul".upper()
-"MIUUL".lower()
+"unal".upper()
+"UNAL".lower()
 
 # type(upper)
 # type(upper())
